@@ -1,14 +1,14 @@
 "items": [
-{
-"key": "FM ID",
-"value": "769876"
-},
-{
-"key": "File a report",
-"value": "https://www.procore.com/"
-},
-{
-"key": "View datasheet",
-"value": "(https://www.fmdomain.com/datasheet?id=$(element_guid))"
-}
+  {
+  "key": "FM ID",
+  "value": "769876"
+  },
+  {
+  "key": "File a report",
+  "value": "https://www.procore.com/"
+  },
+  {
+  "key": "View datasheet",
+  "value": "https://www.fmdomain.com/datasheet?id=$(element_guid)"
+  }
 ]
