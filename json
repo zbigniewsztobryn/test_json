@@ -1,16 +1,16 @@
 {
   "items": [
     {
-    "key": "FM ID",
+    "key": "ELEM_INFO_SWISSROC_1",
     "value": "769876"
     },
     {
-    "key": "File a report",
+    "key": "ELEM_INFO_SWISSROC_2",
     "value": "https://www.procore.com/"
     },
     {
-    "key": "View datasheet",
-    "value": "https://www.fmdomain.com/datasheet?id=$(element_guid)"
+    "key": "ELEM_INFO_SWISSROC_3",
+    "value": "[CLICK ME](https://www.fmdomain.com/datasheet?id=$(element_guid))"
     }
   ]
 }
