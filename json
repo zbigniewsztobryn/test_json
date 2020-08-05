@@ -11,10 +11,6 @@
     {
     "key": "View datasheet",
     "value": "https://www.fmdomain.com/datasheet?id=$(element_guid)"
-    },
-    {
-    "key": "Test1",
-    "value": "[click me](https://www.fmdomain.com/datasheet?id=$(element_guid))"
     }
   ]
 }
