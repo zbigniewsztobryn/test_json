@@ -11,6 +11,10 @@
     {
     "key": "ELEM_INFO_SWISSROC_3",
     "value": "[CLICK ME](https://www.fmdomain.com/datasheet?id=$(element_guid))"
+    },
+    {
+    "key": "Zbyszek",
+    "value": "[CLICK ME](https://www.fmdomain.com/datasheet?id=$(element_guid))"
     }
   ]
 }
